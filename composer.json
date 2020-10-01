@@ -1,7 +1,7 @@
 {
     "name": "summitooh/core",
     "description": "Summit OOH Core",
-    "type": "project",
+    "type": "library",
     "authors": [
         {
             "name": "Ian",
